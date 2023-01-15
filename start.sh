@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/Vinarasan55/SKY-FILTER-HD.git /SKY-FILTER-HD
+  git clone https://github.com/SATHEESHVIN/Natasha-Hd.git/SKY-FILTER-HD
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /SKY-FILTER-HD
