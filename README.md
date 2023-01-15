@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://te.legra.ph/file/9918ff1d61164e4804c90.jpg" alt="𝙷𝙱">
+  <img src="https://te.legra.ph/file/954c4149ad9558fc54117.jpg" alt="𝙷𝙱">
 </p>
 <h1 align="center">
-  <b> 𝙷𝙱 </b>
+  <b> NATASHA </b>
 </h1>
 
 
